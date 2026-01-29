@@ -70,7 +70,7 @@
 <p dir="auto">🔭 I’m currently working as a <strong>Software Engineer 💻</strong>.</p>
 </li>
 <li>
-<p dir="auto">🌱 I’m currently learning <strong>Advanced Flutter</strong>.</p>
+<p dir="auto">🌱 I’m currently learning <strong>Advanced (Node) Nest Js</strong>.</p>
 </li>
 <li>
 <p dir="auto">👯 I’m looking forward to collaborate on open source projects.</p>
@@ -118,12 +118,42 @@
 <br>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🚀 Languages and Tools:</h2><a id="user-content--languages-and-tools" class="anchor" aria-label="Permalink: 🚀 Languages and Tools:" href="#-languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div align="center" dir="auto">
-  
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eef483f36719ce95eb7d9e71a6f8b4daf38ce3ce4c996bdaedd1746b7fd28489/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d632c6370702c6a6176612c707974686f6e2c68746d6c2c6373732c6a6176617363726970742c747970657363726970742c7068702c626f6f7473747261702c73716c"><img src="https://camo.githubusercontent.com/eef483f36719ce95eb7d9e71a6f8b4daf38ce3ce4c996bdaedd1746b7fd28489/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d632c6370702c6a6176612c707974686f6e2c68746d6c2c6373732c6a6176617363726970742c747970657363726970742c7068702c626f6f7473747261702c73716c" alt="Langages" data-canonical-src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,typescript,php,bootstrap,sql" style="max-width: 100%;"></a>
-  
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b69d9b6a20305a70aaf59f8350a89c6a5d99e2cfa30b848df86e54e53cae2bbb/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65636c697073652c7673636f64652c76697375616c73747564696f2c6e6f74696f6e2c6769742c6769746875622c66697265626173652c616e67756c61722c73796d666f6e792c6669676d61"><img src="https://camo.githubusercontent.com/b69d9b6a20305a70aaf59f8350a89c6a5d99e2cfa30b848df86e54e53cae2bbb/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65636c697073652c7673636f64652c76697375616c73747564696f2c6e6f74696f6e2c6769742c6769746875622c66697265626173652c616e67756c61722c73796d666f6e792c6669676d61" alt="IDE et outils" data-canonical-src="https://skillicons.dev/icons?i=eclipse,vscode,visualstudio,notion,git,github,firebase,angular,symfony,figma" style="max-width: 100%;"></a><br>
-  
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ddcc2abf9799b9bde53a33208b4efcf4d617a5e21cab2521e439194bfebdbfbf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6f7261636c652c73716c"><img src="https://camo.githubusercontent.com/ddcc2abf9799b9bde53a33208b4efcf4d617a5e21cab2521e439194bfebdbfbf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6f7261636c652c73716c" alt="Bases de données" data-canonical-src="https://skillicons.dev/icons?i=oracle,sql" style="max-width: 100%;"></a>
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
+</p>
+
+<p align="center">
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" />
+</p>
+
+<p align="center">
+  <!-- Database & Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+</p>
+
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+</p>
+
 </div>
 <br>
 <div align="center" dir="auto">
@@ -160,7 +190,7 @@
     </a>
 </p>
 <a href="https://github.com/Preets-Version-77331/github-readme-stats"><img alt="Preets-Version-77331's Github Stats" src="https://camo.githubusercontent.com/738f88f146390f4cd904628360e2affbd1fe324cddd5c039973bcf750007da61/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d696c796573772673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d304431313137" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ilyesw&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" style="max-width: 100%;"></a>
-<a href="https://github.com/Preets-Version-77331/github-readme-stats"><img alt="ilyesw's Top Languages" src="https://camo.githubusercontent.com/a1166a0aba6c4dbc40e6a2c63a7a2bc26b3c411e3093c8107d5eb663ec5ea249/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d696c79657377266c616e67735f636f756e743d3826636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d304431313137" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyesw&amp;langs_count=8&amp;count_private=true&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" style="max-width: 100%;"></a>
+<a href="https://github.com/Preets-Version-77331/github-readme-stats"><img alt="Preets-Version-77331's Top Languages" src="https://camo.githubusercontent.com/a1166a0aba6c4dbc40e6a2c63a7a2bc26b3c411e3093c8107d5eb663ec5ea249/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d696c79657377266c616e67735f636f756e743d3826636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d304431313137" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyesw&amp;langs_count=8&amp;count_private=true&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" style="max-width: 100%;"></a>
 <br>
 <div align="center" dir="auto">
     <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
@@ -191,24 +221,8 @@
 <br>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🤝 Connect With Me:</h2><a id="user-content--connect-with-me" class="anchor" aria-label="Permalink: 🤝 Connect With Me:" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div align="center" dir="auto">
-    <a href="https://www.linkedin.com/in/YourLinkedInUsername" rel="nofollow">
-        <img src="https://camo.githubusercontent.com/835f91c273c180e842aa0b2fb0d5ccc52def20089589abbcefceb28317c583f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" style="height: 30px; max-width: 100%;" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
-    </a>
-<a href="https://mostaql.com/u/YourUsername/portfolio" rel="nofollow">
-      <img src="https://camo.githubusercontent.com/cb6039093a0f4f6009f19c24e631a8e491b198f20fcbc448d3a572caff1875a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d627269656663617365266c6f676f436f6c6f723d7768697465" alt="Portfolio" style="height: 30px; max-width: 100%;" data-canonical-src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&amp;logo=briefcase&amp;logoColor=white">
-</a>
-<a href="mailto:your.email@example.com">
-    <img src="https://camo.githubusercontent.com/fb30b8dfa7e0c1d7147f6818059224bdd210c15a5ad4601e0d24862fa8b867da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61696c646f747275266c6f676f436f6c6f723d7768697465" alt="Email" style="height: 30px; max-width: 100%;" data-canonical-src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&amp;logo=maildotru&amp;logoColor=white">
-</a>
-<a href="https://t.me/YourTelegramUsername" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/fd5629b6a551247b10a2a697edfd343accfddd131a3914eebb6b6c4f5e1a6e13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" style="height: 30px; max-width: 100%;" data-canonical-src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&amp;logo=telegram&amp;logoColor=white">
-</a>
-<a href="https://www.reddit.com/user/YourRedditUsername" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/620e2064bb25529a5f8f0cb69222621afef3b31ad72ff7f89cd3bd41cf8efe58/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265646469742d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d726564646974266c6f676f436f6c6f723d7768697465" alt="Reddit" style="height: 30px; max-width: 100%;" data-canonical-src="https://img.shields.io/badge/Reddit-0077B5?style=for-the-badge&amp;logo=reddit&amp;logoColor=white">
-</a>
-<a href="https://x.com/YourXUsername" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/3eb682f956bbffa2491906e0abc763825a9e6df9e1fc1ad61f332c2c5954ac6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f582d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d782d74776974746572266c6f676f436f6c6f723d7768697465" alt="X" style="height: 30px; max-width: 100%;" data-canonical-src="https://img.shields.io/badge/X-0077B5?style=for-the-badge&amp;logo=x-twitter&amp;logoColor=white">
-</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/preet-chauhan-918ab1252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/preet-chauhan-918ab1252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+</p>
 </div>
 <br>
 <div align="center" dir="auto">
@@ -238,11 +252,8 @@
       </span></animated-image>
 </div>
 <br>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">💜 Views and Followers:</h2><a id="user-content--views-and-followers" class="anchor" aria-label="Permalink: 💜 Views and Followers:" href="#-views-and-followers"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<a href="https://github.com/Preets-Version-77331/github-profile-views-counter">
-    <img src="https://camo.githubusercontent.com/f0045a50940e4d3f7d5fc9bf467277e9ba7323cd90967c9d5bd3c439ac10446c/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d696c79657377" data-canonical-src="https://komarev.com/ghpvc/?username=ilyesw" style="max-width: 100%;">
-</a>
-<a href="https://github.com/Preets-Version-77331?tab=followers"><img src="https://camo.githubusercontent.com/2712c922e68ac7ab6e9c91453283426664867134e3d69bd35d50989b371d571f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f696c796573773f6c6162656c3d466f6c6c6f77657273267374796c653d736f6369616c" alt="GitHub Badge" data-canonical-src="https://img.shields.io/github/followers/ilyesw?label=Followers&amp;style=social" style="max-width: 100%;"></a>
+
+
 <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d618554d70e87fc529de8c62c9ab11e6ef6157ec7cc75367ac7741f7f4edb9f5/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f666f6e743d5269676874656f75732673697a653d32352663656e7465723d74727565267643656e7465723d747275652677696474683d353030266865696768743d3730266475726174696f6e3d34303030266c696e65733d5468616e6b732b666f722b7669736974696e67212be29da4efb88f3b2b53686f6f742b6d652b612b6d6573736167652b6f6e2b4c696e6b6564696e213b49276d2b4c6f6e672b4c6966652b4c6561726e6572"><img src="https://camo.githubusercontent.com/d618554d70e87fc529de8c62c9ab11e6ef6157ec7cc75367ac7741f7f4edb9f5/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f666f6e743d5269676874656f75732673697a653d32352663656e7465723d74727565267643656e7465723d747275652677696474683d353030266865696768743d3730266475726174696f6e3d34303030266c696e65733d5468616e6b732b666f722b7669736974696e67212be29da4efb88f3b2b53686f6f742b6d652b612b6d6573736167652b6f6e2b4c696e6b6564696e213b49276d2b4c6f6e672b4c6966652b4c6561726e6572" data-canonical-src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner" style="max-width: 100%;"></a>
 </h3><a id="user-content-----" class="anchor" aria-label="Permalink: " href="#----"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
